@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% if not request.user.is_authenticated %}
+<h4>Log In first...</h4>
+{% else %}
+<h3>Hello {{user}} {{id}},lets make a prediction</h3>
+{% endif %}
+
+{% endblock content %}
