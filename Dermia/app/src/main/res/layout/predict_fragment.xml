@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_1"
+    android:paddingBottom="60dp"
+    tools:context=".MainActivity"
+    android:id="@+id/root_layout">
+
+
+
+    <Button
+        android:id="@+id/b_predict"
+        android:layout_width="128dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="164dp"
+        android:background="@drawable/rounder_corners"
+        android:text="@string/btn_analyze"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/b_rephoto"
+        app:layout_constraintHorizontal_bias="0.712"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.49"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayoutCompat" />
+
+    <Button
+        android:id="@+id/b_rephoto"
+        android:layout_width="128dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="164dp"
+        android:background="@drawable/rounder_corners"
+        android:drawableBottom="@drawable/ic_photo_camera_black_24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayoutCompat"
+        app:layout_constraintVertical_bias="0.49" />
+
+    <Button
+        android:id="@+id/b_chart"
+        android:layout_width="189dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="96dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        android:background="@drawable/rounder_corners"
+        android:drawableRight="@drawable/ic_insert_chart_black_24dp"
+        android:text="@string/tracing"
+        android:textSize="15sp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayoutCompat" />
+
+    <ImageView
+        android:id="@+id/iv_image"
+        android:layout_width="210dp"
+        android:layout_height="189dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.562"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.249"
+        app:srcCompat="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/tv_res"
+        android:layout_width="327dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:text="Prediction"
+        android:textColor="@android:color/holo_green_light"
+        android:background="#60271E1E"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutCompat"
+        android:layout_width="352dp"
+        android:layout_height="162dp"
+        android:layout_marginTop="244dp"
+        android:background="#60271E1E"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.711"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv_pred"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="left"
+            android:text="@string/analisis"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/positive"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_resume"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/negative"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/tv_policy"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text=""
+            android:textColor="@android:color/holo_blue_dark"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="91dp"
+        android:layout_height="84dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b_chart"
+        app:srcCompat="@drawable/m2" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="309dp"
+        android:layout_height="14dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:progressTint="@color/colorBarra"
+        android:indeterminateTint="@color/colorBarra"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_res" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

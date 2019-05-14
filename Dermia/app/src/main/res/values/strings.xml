@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name" translatable="false">DermIA   Pro</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="action_settings">Rate App</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="tiitle_about">About</string>
+    <string name="tiitle_config" translatable="false">Config.</string>
+    <string name="tiitle_predict" translatable="false">MedicAible</string>
+    <string name="tittle_album" translatable="false">Album</string>
+    <string name="connection">Check your connection</string>
+    <string name="analyzing">Analyzing</string>
+    <string name="result_ok">Everything well</string>
+    <string name="result_cancer">You may need medical attention</string>
+    <string name="share_info">Cancer Detection App https://play.google.com/store/apps/details?id=com.genialabs.medicaible</string>
+    <string name="analisis">Analisis</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="predictin">Analyzing...</string>
+    <string name="needallow">You must allow permissions</string>
+    <string name="nomoreads">No more Ads availables, please try again in 1 hour or Buy Pro Version for unlimited access</string>
+    <string name="nothingbad">Nothing bad detected</string>
+    <string name="allwell">Everything is well</string>
+    <string name="cancerdetected">Cancer melanoma detected</string>
+    <string name="cancerdetection">Melanoma similarity detection :</string>
+    <string name="negativecancer">Negative skin  Cancer :</string>
+    <string name="connerror">Connection error, try again</string>
+    <string name="configuration">Preferences</string>
+    <string name="pref_crema">Enable apply sunscreen reminder</string>
+    <string name="disable">Disable</string>
+    <string name="notif_tittle_water">Time to drink some refreshing water</string>
+    <string name="notif_tittle_sun">Time to put some sunscreen</string>
+    <string name="notif_text_water">Cool</string>
+    <string name="notif_text_sxun">Do ir for your skin</string>
+    <string name="resume_allwell">Negative skin cancer</string>
+    <string name="resume_allbad">Positive skin cancer</string>
+    <string name="tv_disable_adds">Disable Ads</string>
+    <string name="press_camera">New skin analysis</string>
+    <string name="enable_drink">Enable reminder drink water notification</string>
+    <string name="switch_enable_sunscreen">Sunscreen Notif</string>
+    <string name="switch_enable_water">Drink Notif</string>
+    <string name="album_empty">Album is Empty, take some photos to feed the fridge!</string>
+    <string name="dialog_areusure">Are you sure?</string>
+    <string name="positive">Positive :</string>
+    <string name="negative">Negative :</string>
+    <string name="btn_analyze">Analyze</string>
+    <string name="bepatient">Please be patient, your sample is analyzing, it may take around 30 seconds</string>
+    <string name="policy">Despite the accuracy of the neural network(A.I), we recommend always go to a specialist doctor who will attend to your needs better.</string>
+    <string name="conn_error_server">The server may have too many requests, please try again</string>
+    <string name="off" translatable="false">Off</string>
+    <string name="adsnecessary">Ads are necessary for server maitenance</string>
+    <string name="noads">Free Analisis</string>
+    <string name="albumempty">Album is Empty, take some photos to feed the fridge!</string>
+    <string name="watchadspls">Watch the adversiting please</string>
+
+
+    <string name="record">Record</string>
+    <string name="stomach">Abdomen</string>
+    <string name="r_shoulder">Right Shoulder</string>
+    <string name="l_shoulder">Left Shoulder</string>
+    <string name="r_arm">Rigth Arm</string>
+    <string name="head">Head</string>
+    <string name="l_arm">Left Arm</string>
+    <string name="r_hand">Rigth Hand</string>
+    <string name="l_hand">Left Hand</string>
+    <string name="r_leg">Right Leg</string>
+    <string name="l_leg">Left Leg</string>
+    <string name="r_foot">Right Foot</string>
+    <string name="l_foot">Left Foot</string>
+    <string name="hip">Hip zone</string>
+    <string name="chest">Chest</string>
+    <string name="dialog_delete">Are you sure?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="select_bodypart">Select the closest part of body where your mole is</string>
+    <string name="addnew">ADD NEW PHOTO</string>
+    <string name="nodata_chart">There is not data yet</string>
+    <string name="newalbum">New Album</string>
+    <string name="tracing">Tracing</string>
+    <string name="tv_press_tracing">Continue monitoring your skin</string>
+    <string name="skincancerporc">Skin Cancer %</string>
+    <string name="dangerlimit">Danger Limit</string></resources>

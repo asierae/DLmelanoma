@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9ae2f783471f1cfd5a0cfaabcc89ffc2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\60d0f04917cafcaa1345b9ec8e656d25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff64e3b756cdf6aa0a7fb791064e544b\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9589896f7ec8357322c5a9f81b99f28c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ac28167a7f0abfe3a456bd48bef034e0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\4d985369f57325abd82470dd4a1f05e8\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\443f6066d61e28f71d9b74c8ae216c42\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\b23705aef6e1401a62cc7522f1cd0951\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\504d97951c0d770b0748b78e91cedd1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\5830bfe5b2fecfbb420d3d1708658d61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\0329a7cd14dd5142939fe3ba6ee10457\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\cef60ed13130686ccb51b57e05e863e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\28b9587d06cc83da158ed6cee196e98c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\072b25ed9d097538ac1ca3d780bf0e79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\93026c91022e7a179e16a76d315e6dc1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9baf101b16051f1b209b6f60d33e3e1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\e2e2945736be11bd71f3e567a2cc8ced\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff71b386f0463ae521b46095506d6b36\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\57bbbeca4840e1e02feb929a4123fd1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\762f3e47cba380c2f56bcab8c696c25d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\0e26b275ea41471044fe336f04da4039\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\d8f3b29f0de0b004078099c4d8b56a8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\21a8e4f240f1ddc181c9bd083885002d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\3111e5c39634f695bf1eab43ad24e812\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9f67581572e1f26c7b6924ceed27a345\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\59e00d2f940f3cb4bb84257333c68f10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\c9bd6197fca46d098353d9541009325d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\944cab09888be92fde97c3071c220c4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\236da545c9fdc2d556cb3803f9c3e50e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\7b2078cd8a38d638d04476cbd7b55878\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\dbdce0d48fff846e3e85c7183935559c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\6db11dc5425ad97f6419269120017945\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\f4923d4ce29a698d5e8866213abc2d7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\7759c147d0eef4901544846b64c7bb7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\5b4978f03b8588d05c09987be41da207\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\df788ae14f5e78b9e7049f76a4707a04\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.SET_ALARM
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:9:22-65
+application
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:11:5-36:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9ae2f783471f1cfd5a0cfaabcc89ffc2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9ae2f783471f1cfd5a0cfaabcc89ffc2\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff64e3b756cdf6aa0a7fb791064e544b\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff64e3b756cdf6aa0a7fb791064e544b\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ac28167a7f0abfe3a456bd48bef034e0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ac28167a7f0abfe3a456bd48bef034e0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\21a8e4f240f1ddc181c9bd083885002d\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\21a8e4f240f1ddc181c9bd083885002d\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\3111e5c39634f695bf1eab43ad24e812\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\3111e5c39634f695bf1eab43ad24e812\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\21a8e4f240f1ddc181c9bd083885002d\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:17:9-44
+activity#com.genialabs.dermia.Controllers.SplashScreen
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:theme
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:21:13-48
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:20:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.genialabs.dermia.MainActivity
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:28:9-32:56
+	android:screenOrientation
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:29:13-41
+receiver#com.genialabs.dermia.AlarmReceiver
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:33:19-48
+receiver#com.genialabs.dermia.AlarmReceiver2
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:34:9-51
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:34:19-49
+receiver#com.genialabs.dermia.CancelReceiver
+ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml:35:19-49
+uses-sdk
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9ae2f783471f1cfd5a0cfaabcc89ffc2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9ae2f783471f1cfd5a0cfaabcc89ffc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\60d0f04917cafcaa1345b9ec8e656d25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\60d0f04917cafcaa1345b9ec8e656d25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff64e3b756cdf6aa0a7fb791064e544b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff64e3b756cdf6aa0a7fb791064e544b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9589896f7ec8357322c5a9f81b99f28c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9589896f7ec8357322c5a9f81b99f28c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ac28167a7f0abfe3a456bd48bef034e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ac28167a7f0abfe3a456bd48bef034e0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\4d985369f57325abd82470dd4a1f05e8\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\4d985369f57325abd82470dd4a1f05e8\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\443f6066d61e28f71d9b74c8ae216c42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\443f6066d61e28f71d9b74c8ae216c42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\b23705aef6e1401a62cc7522f1cd0951\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\b23705aef6e1401a62cc7522f1cd0951\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\504d97951c0d770b0748b78e91cedd1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\504d97951c0d770b0748b78e91cedd1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\5830bfe5b2fecfbb420d3d1708658d61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\5830bfe5b2fecfbb420d3d1708658d61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\0329a7cd14dd5142939fe3ba6ee10457\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\0329a7cd14dd5142939fe3ba6ee10457\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\cef60ed13130686ccb51b57e05e863e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\cef60ed13130686ccb51b57e05e863e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\28b9587d06cc83da158ed6cee196e98c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\28b9587d06cc83da158ed6cee196e98c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\072b25ed9d097538ac1ca3d780bf0e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\072b25ed9d097538ac1ca3d780bf0e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\93026c91022e7a179e16a76d315e6dc1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\93026c91022e7a179e16a76d315e6dc1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9baf101b16051f1b209b6f60d33e3e1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9baf101b16051f1b209b6f60d33e3e1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\e2e2945736be11bd71f3e567a2cc8ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\e2e2945736be11bd71f3e567a2cc8ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff71b386f0463ae521b46095506d6b36\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\ff71b386f0463ae521b46095506d6b36\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\57bbbeca4840e1e02feb929a4123fd1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\57bbbeca4840e1e02feb929a4123fd1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\762f3e47cba380c2f56bcab8c696c25d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\762f3e47cba380c2f56bcab8c696c25d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\0e26b275ea41471044fe336f04da4039\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\0e26b275ea41471044fe336f04da4039\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\d8f3b29f0de0b004078099c4d8b56a8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\d8f3b29f0de0b004078099c4d8b56a8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\21a8e4f240f1ddc181c9bd083885002d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\21a8e4f240f1ddc181c9bd083885002d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\3111e5c39634f695bf1eab43ad24e812\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\3111e5c39634f695bf1eab43ad24e812\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9f67581572e1f26c7b6924ceed27a345\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\9f67581572e1f26c7b6924ceed27a345\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\59e00d2f940f3cb4bb84257333c68f10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\59e00d2f940f3cb4bb84257333c68f10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\c9bd6197fca46d098353d9541009325d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\c9bd6197fca46d098353d9541009325d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\944cab09888be92fde97c3071c220c4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\944cab09888be92fde97c3071c220c4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\236da545c9fdc2d556cb3803f9c3e50e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\236da545c9fdc2d556cb3803f9c3e50e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\7b2078cd8a38d638d04476cbd7b55878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\7b2078cd8a38d638d04476cbd7b55878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\dbdce0d48fff846e3e85c7183935559c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\dbdce0d48fff846e3e85c7183935559c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\6db11dc5425ad97f6419269120017945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\6db11dc5425ad97f6419269120017945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\f4923d4ce29a698d5e8866213abc2d7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\f4923d4ce29a698d5e8866213abc2d7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\7759c147d0eef4901544846b64c7bb7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\7759c147d0eef4901544846b64c7bb7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\5b4978f03b8588d05c09987be41da207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\5b4978f03b8588d05c09987be41da207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\df788ae14f5e78b9e7049f76a4707a04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\df788ae14f5e78b9e7049f76a4707a04\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asier\AndroidStudioProjects\Dermia\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\asier\.gradle\caches\transforms-2\files-2.1\95563c3ac3192c322ef0a18d7b5531c4\AndroidManifest.xml:24:13-79

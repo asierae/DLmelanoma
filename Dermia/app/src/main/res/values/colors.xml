@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Customs!-->
+    <color name="colorBarra">#B89B9B</color>
+    <color name="colorBarraNotif">#967272</color>
+    <color name="colorAccentCustom">#D81B60</color>
+    <color name="colorss">#FF2ABABE</color>
+    <color name="colorFive">#9EFC42</color>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBarra</item>
+        <item name="colorPrimaryDark">@color/colorBarraNotif</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor" tools:targetApi="21">@color/colorBarra</item>
+    </style>
+
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorss</item>
+        <item name="colorPrimaryDark">@color/colorss</item>
+    </style>
+
+    <style name="TextviewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+</resources>
